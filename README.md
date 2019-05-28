@@ -6,6 +6,7 @@ all commands for ref
 *** Getting help:
 
 # $ indicate normal user, # indicate root user
+# sudo apt install net-tools ...  to get ifconfig netstat working
 
 # View the manual for target command
 man [command]
